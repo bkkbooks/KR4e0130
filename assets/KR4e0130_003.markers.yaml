@@ -983,6 +983,7 @@ markers:
   - {type: line-break, offset: 3415, content: '', id: KR4e0130_WYG_003-12a01}
   - {type: substitution, offset: 3429, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 3431, content: (, id: KR4e0130_krp_003-bkkpn1}
+  - {type: voice, offset: 3431, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3432, content: /, id: KR4e0130_krp_003-bkkpn2}
   - {type: punctuation, offset: 3432, content: ), id: KR4e0130_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 3436, content: '
@@ -990,12 +991,15 @@ markers:
       ', id: KR4e0130_krp_003-bkkkrnewl199}
   - {type: line-break, offset: 3436, content: '', id: KR4e0130_WYG_003-12a02}
   - {type: punctuation, offset: 3436, content: (, id: KR4e0130_krp_003-bkkpn4}
+  - {type: voice, offset: 3436, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3438, content: /, id: KR4e0130_krp_003-bkkpn5}
   - {type: punctuation, offset: 3438, content: ), id: KR4e0130_krp_003-bkkpn6}
   - {type: punctuation, offset: 3442, content: (, id: KR4e0130_krp_003-bkkpn7}
+  - {type: voice, offset: 3442, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3444, content: /, id: KR4e0130_krp_003-bkkpn8}
   - {type: punctuation, offset: 3444, content: ), id: KR4e0130_krp_003-bkkpn9}
   - {type: punctuation, offset: 3448, content: (, id: KR4e0130_krp_003-bkkpn10}
+  - {type: voice, offset: 3448, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3450, content: /, id: KR4e0130_krp_003-bkkpn11}
   - {type: punctuation, offset: 3450, content: ), id: KR4e0130_krp_003-bkkpn12}
   - {type: 'kr:newline', offset: 3457, content: '
@@ -3176,4 +3180,4 @@ markers:
 
       ', id: KR4e0130_krp_003-bkkkrnewl665}
   back: []
-hash: sha256:2ad35c673f502fba2f089f5a934fc52ad0d27292e8e18d5aafe4c473c8d9173a
+hash: sha256:909f5b040bea45a16e082873e353a4a81cc01b1790a78ebe79ddee2576d80a5a
